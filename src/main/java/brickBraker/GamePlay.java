@@ -77,6 +77,7 @@ public class GamePlay extends JPanel implements KeyListener, ActionListener {
                 }
 
                 //to make the ball touch the blocks
+                // detect 
 
 
 
